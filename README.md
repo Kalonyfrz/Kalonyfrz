@@ -12,7 +12,6 @@ Meu objetivo é evoluir continuamente como profissional, adquirir experiência n
 
 📚 Atualmente aprofundando conhecimentos em Java, Programação Orientada a Objetos (POO), estruturação de banco de dados e integrações via APIs.
 
-🎯 Buscando a primeira oportunidade profissional (estágio ou nível júnior) para contribuir com equipes colaborativas, testes e entregas iterativas.
 
 ---
 
