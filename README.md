@@ -16,9 +16,13 @@ Meu objetivo é evoluir continuamente como profissional, adquirir experiência n
 💻 Tecnologias e Ferramentas
 
 Backend: Java, Python, desenvolvimento de APIs
+
 Frontend: HTML, CSS, JavaScript
+
 Banco de Dados: SQL Server, MySQL
+
 Versionamento & IDEs: Git, GitHub, Visual Studio Code, IntelliJ
+
 
 📌 Projetos em Destaque
 
@@ -27,6 +31,7 @@ Microserviço acadêmico voltado ao controle e centralização de operações fi
 
 🔹 Projetos Acadêmicos e Práticos
 Desenvolvimento contínuo de aplicações com foco em operações CRUD, estruturas de dados e aprimoramento de boas práticas de código.
+
 
 📫 Como me encontrar
 
