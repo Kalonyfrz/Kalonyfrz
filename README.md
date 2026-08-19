@@ -22,7 +22,7 @@ Backend: Java, Python, desenvolvimento de APIs
 
 Frontend: HTML, CSS, JavaScript
 
-Banco de Dados:** SQL Server, MySQL
+Banco de Dados: SQL Server, MySQL
 
 Versionamento & IDEs: Git, GitHub, Visual Studio Code, IntelliJ
 
