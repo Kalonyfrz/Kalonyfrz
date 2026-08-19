@@ -18,7 +18,7 @@ Meu objetivo é evoluir continuamente como profissional, adquirir experiência n
 
 💻 Tecnologias e Ferramentas
 
-**Backend: Java, Python, desenvolvimento de APIs
+Backend: Java, Python, desenvolvimento de APIs
 
 Frontend: HTML, CSS, JavaScript
 
