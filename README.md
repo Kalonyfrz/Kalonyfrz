@@ -1,6 +1,6 @@
-👋 Olá, eu sou Kalony Ferreira
+# 👋 Olá, eu sou Kalony Ferreira
 
-🚀 Sobre mim
+## 🚀 Sobre mim
 
 🎓 Estudante do 4º semestre de Ciência da Computação na Universidade Cruzeiro do Sul (UNICSUL).
 
@@ -12,35 +12,30 @@ Meu objetivo é evoluir continuamente como profissional, adquirir experiência n
 
 📚 Atualmente aprofundando conhecimentos em Java, Programação Orientada a Objetos (POO), estruturação de banco de dados e integrações via APIs.
 
+🎯 Buscando a primeira oportunidade profissional (estágio ou nível júnior) para contribuir com equipes colaborativas, testes e entregas iterativas.
 
----
+## 💻 Tecnologias e Ferramentas
 
-💻 Tecnologias e Ferramentas
+**Backend:** Java, Python, desenvolvimento de APIs
 
-Backend: Java, Python, desenvolvimento de APIs
+**Frontend:** HTML, CSS, JavaScript
 
-Frontend: HTML, CSS, JavaScript
+**Banco de Dados:** SQL Server, MySQL
 
-Banco de Dados: SQL Server, MySQL
+**Versionamento & IDEs:** Git, GitHub, Visual Studio Code, IntelliJ
 
-Versionamento & IDEs: Git, GitHub, Visual Studio Code, IntelliJ
+## 📌 Projetos em Destaque
 
----
-
-📌 Projetos em Destaque
-
-🔹 UNICSUL FinOps ( Em desenvolvimento )
+### 🔹 UNICSUL FinOps ( Em desenvolvimento )
 
 Microserviço acadêmico voltado ao controle e centralização de operações financeiras. Este projeto reflete a aplicação prática de conceitos de matemática financeira e engenharia de backend na resolução de lógicas de negócios.
 
-🔹 Projetos Acadêmicos e Práticos
+### 🔹 Projetos Acadêmicos e Práticos
 
 Desenvolvimento contínuo de aplicações com foco em operações CRUD, estruturas de dados e aprimoramento de boas práticas de código.
 
----
+## 📫 Como me encontrar
 
-📫 Como me encontrar
+**LinkedIn:** [www.linkedin.com/in/kalonyferreira](http://www.linkedin.com/in/kalonyferreira)
 
-LinkedIn: www.linkedin.com/in/kalonyferreira
-
-E-mail: kalonyferreira@gmail.com
+**E-mail:** [kalonyferreira@gmail.com](mailto:kalonyferreira@gmail.com)
