@@ -1,6 +1,7 @@
 👋 Olá, eu sou Kalony Ferreira
 
 🚀 Sobre mim
+
 🎓 Estudante do 4º semestre de Ciência da Computação na Universidade Cruzeiro do Sul (UNICSUL).
 Sou estudante de Tecnologia e estou construindo minha carreira na área de desenvolvimento de software. Tenho interesse em transformar conhecimentos teóricos em soluções práticas por meio de projetos acadêmicos e pessoais.
 
